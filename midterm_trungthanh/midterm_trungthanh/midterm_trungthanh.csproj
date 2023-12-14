@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{95C5E222-56BB-4598-911B-70113BF2408F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>midterm_trungthanh</RootNamespace>
+    <AssemblyName>midterm_trungthanh</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAutoSizeChanged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAutoSizeChanged.Designer.cs">
+      <DependentUpon>FormAutoSizeChanged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBackgroundImageChanged.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBackgroundImageChanged.Designer.cs">
+      <DependentUpon>FormBackgroundImageChanged.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBorderStyless.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBorderStyless.Designer.cs">
+      <DependentUpon>FormBorderStyless.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClick.Designer.cs">
+      <DependentUpon>FormClick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHover.Designer.cs">
+      <DependentUpon>FormHover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImageList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImageList.Designer.cs">
+      <DependentUpon>FormImageList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormkeyDownPressUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormkeyDownPressUp.Designer.cs">
+      <DependentUpon>FormkeyDownPressUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLabel MouseLeave Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLabel MouseLeave Event.Designer.cs">
+      <DependentUpon>FormLabel MouseLeave Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTextAlign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTextAlign.Designer.cs">
+      <DependentUpon>FormTextAlign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTextChangedEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTextChangedEvent.Designer.cs">
+      <DependentUpon>FormTextChangedEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAutoSizeChanged.resx">
+      <DependentUpon>FormAutoSizeChanged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBackgroundImageChanged.resx">
+      <DependentUpon>FormBackgroundImageChanged.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBorderStyless.resx">
+      <DependentUpon>FormBorderStyless.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClick.resx">
+      <DependentUpon>FormClick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHover.resx">
+      <DependentUpon>FormHover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImageList.resx">
+      <DependentUpon>FormImageList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormkeyDownPressUp.resx">
+      <DependentUpon>FormkeyDownPressUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLabel MouseLeave Event.resx">
+      <DependentUpon>FormLabel MouseLeave Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTextAlign.resx">
+      <DependentUpon>FormTextAlign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTextChangedEvent.resx">
+      <DependentUpon>FormTextChangedEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_hutech.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo CMYK-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo CMYK-011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\codedbclicked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hover_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hover_submenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textChanged_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouseLeave_Move_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\border_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autosize_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ex_autosize_IMG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgchange_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layout_changed_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gt_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exgt_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textalign_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_img.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
