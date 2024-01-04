@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
@@ -55,33 +55,15 @@
             this.panel1.Size = new System.Drawing.Size(1482, 225);
             this.panel1.TabIndex = 0;
             // 
-            // label1
+            // label6
             // 
-            this.label1.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(39, 28);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1023, 37);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "- Sự kiện này sẽ diễn ra khi mà text của label thay đổi";
-            // 
-            // label2
-            // 
-            this.label2.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(39, 51);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(1023, 27);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "- Hãy để tôi giải thích nó bằng một ví dụ, tôi đã lấy hai label";
-            // 
-            // label3
-            // 
-            this.label3.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(39, 78);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(1023, 27);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "- Bây giờ logic là khi văn bản của một nhãn được thay đổi thì văn bản nhãn kia sẽ" +
-    " tự động thay đổi.";
+            this.label6.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(39, 159);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(1023, 27);
+            this.label6.TabIndex = 3;
+            this.label6.Text = "- Bây giờ, khi văn bản được thay đổi, Sự kiện _TextChanged sẽ xảy ra và văn bản n" +
+    "hãn thứ 2 cũng sẽ thay đổi.";
             // 
             // label4
             // 
@@ -93,6 +75,16 @@
             this.label4.Text = "- Vì vậy, bây giờ khi người dùng nhấp vào nhãn, văn bản của nhãn sẽ thay đổi do S" +
     "ự kiện _Click";
             // 
+            // label3
+            // 
+            this.label3.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(39, 78);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(1023, 27);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "- Bây giờ logic là khi văn bản của một nhãn được thay đổi thì văn bản nhãn kia sẽ" +
+    " tự động thay đổi.";
+            // 
             // label5
             // 
             this.label5.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -102,15 +94,23 @@
             this.label5.TabIndex = 5;
             this.label5.Text = "- Tôi cũng sẽ sử dụng Sự kiện _Click và _TextChanged.";
             // 
-            // label6
+            // label2
             // 
-            this.label6.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(39, 159);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(1023, 27);
-            this.label6.TabIndex = 3;
-            this.label6.Text = "- Bây giờ, khi văn bản được thay đổi, Sự kiện _TextChanged sẽ xảy ra và văn bản n" +
-    "hãn thứ 2 cũng sẽ thay đổi.";
+            this.label2.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(39, 51);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(1023, 27);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "- Hãy để tôi giải thích nó bằng một ví dụ, tôi đã lấy hai label";
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(39, 24);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(1023, 37);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "- Sự kiện này sẽ diễn ra khi mà text của label thay đổi";
             // 
             // label7
             // 

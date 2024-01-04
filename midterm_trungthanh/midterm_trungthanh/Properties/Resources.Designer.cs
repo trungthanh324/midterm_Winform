@@ -93,6 +93,26 @@ namespace midterm_trungthanh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap border_style {
+            get {
+                object obj = ResourceManager.GetObject("border_style", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap clikc_demo {
+            get {
+                object obj = ResourceManager.GetObject("clikc_demo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap code {
             get {
                 object obj = ResourceManager.GetObject("code", resourceCulture);
@@ -136,6 +156,16 @@ namespace midterm_trungthanh.Properties {
         internal static System.Drawing.Bitmap gt_img {
             get {
                 object obj = ResourceManager.GetObject("gt_img", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hover {
+            get {
+                object obj = ResourceManager.GetObject("hover", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -216,6 +246,16 @@ namespace midterm_trungthanh.Properties {
         internal static System.Drawing.Bitmap mouseLeave_Move_image {
             get {
                 object obj = ResourceManager.GetObject("mouseLeave_Move_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap openform_demo {
+            get {
+                object obj = ResourceManager.GetObject("openform_demo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

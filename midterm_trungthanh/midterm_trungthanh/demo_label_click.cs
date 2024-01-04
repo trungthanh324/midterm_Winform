@@ -10,26 +10,21 @@ using System.Windows.Forms;
 
 namespace midterm_trungthanh
 {
-    public partial class FormClick : Form
+    public partial class demo_label_click : Form
     {
-        public FormClick()
+        public demo_label_click()
         {
             InitializeComponent();
         }
 
-        private void FormClick_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void hover_demo_MouseLeave(object sender, EventArgs e)
+        private void demo_label_click_Load(object sender, EventArgs e)
         {
 
-        }
-
-        private void hover_demo_MouseHover(object sender, EventArgs e)
-        {
-            MessageBox.Show("Demo");
         }
     }
 }

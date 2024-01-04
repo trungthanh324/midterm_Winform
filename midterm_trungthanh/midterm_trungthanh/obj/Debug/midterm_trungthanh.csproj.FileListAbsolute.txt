@@ -18,3 +18,25 @@ C:\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_tr
 C:\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormkeyDownPressUp.resources
 C:\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormImageList.resources
 C:\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormTextAlign.resources
+C:\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.demo_label_click.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\bin\Debug\midterm_trungthanh.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\bin\Debug\midterm_trungthanh.exe
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\bin\Debug\midterm_trungthanh.pdb
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.demo_label_click.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.Form1.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormAutoSizeChanged.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormBackgroundImageChanged.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormBorderStyless.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormClick.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormHover.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormImageList.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormkeyDownPressUp.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormLabel_MouseLeave_Event.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormTextAlign.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.FormTextChangedEvent.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.exe
+C:\Users\ASUS\OneDrive\Máy tính\winform_trungthanh\midterm_trungthanh\midterm_trungthanh\obj\Debug\midterm_trungthanh.pdb

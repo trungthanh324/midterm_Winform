@@ -118,17 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="logo CMYK-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo CMYK-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mouseLeave_Move_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouseLeave_Move_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gt_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\gt_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="code" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\code.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ex_autosize_IMG" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ex_autosize_IMG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="hover_submenu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hover_submenu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="clikc_demo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clikc_demo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="textChanged_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\textChanged_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,8 +148,8 @@
   <data name="codedbclicked" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\codedbclicked.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="bgchange_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bgchange_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hover_submenu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hover_submenu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="textalign_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\textalign_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,22 +160,31 @@
   <data name="logo_hutech" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo_hutech.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="gt_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gt_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="exgt_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\exgt_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="hover_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hover_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="mouseLeave_Move_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mouseLeave_Move_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="text_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\text_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="code" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\code.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="openform_demo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\openform_demo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo CMYK-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo CMYK-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgchange_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bgchange_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="border_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\border_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="text_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\text_img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="border_style" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\border_style.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
